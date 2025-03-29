@@ -11,8 +11,7 @@
       "options": ["Google", "Apple", "Netflix", "Facebook"],
       "correctOption": 3,
       "points": 10
-    },7gfd 
-    üğ-
+    },
     {
       "question": "What's the fundamental building block of React apps?",
       "options": ["Components", "Blocks", "Elements", "Effects"],
